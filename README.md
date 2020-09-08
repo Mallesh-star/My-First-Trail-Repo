@@ -1,2 +1,2 @@
 # My-First-Trail-Repo
-Beginning to my github learning
+Beginning to github learning
